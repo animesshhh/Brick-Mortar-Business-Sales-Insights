@@ -99,7 +99,8 @@ The database consists of 5 tables:
 
 *All these metrics can be looked upon yearwise and monthwise using year and month widgets, respectively.*
 
-![Screenshot 2024-04-20 021057](https://github.com/animesshhh/Brick-Mortar-Business-Sales-Insights/assets/97463808/b20e972c-f06a-4c08-b52e-8c806ede6672)
+![Screenshot 2024-04-20 042606](https://github.com/animesshhh/Brick-Mortar-Business-Sales-Insights/assets/97463808/e3d84b8a-e87c-4626-9132-b47444522ead)
+
 
 
 ### 2. Profit Margin Monitoring
